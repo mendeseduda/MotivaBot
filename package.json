@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "npm": "^6.13.4",
     "restify": "^8.5.1",
     "twitter": "^1.7.1"
